@@ -11,6 +11,7 @@
 import random
 from colorama import Fore, Back, Style, init  # pip install colorama
 init(autoreset=True)  # initialize the coloring
+
 ########## Step 1: Read, Pick Word ###########
 def SelectWord():
     with open("wordle.txt", 'r') as file:
