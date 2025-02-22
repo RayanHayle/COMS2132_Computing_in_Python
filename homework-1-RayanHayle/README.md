@@ -114,7 +114,7 @@ def print_duplicates(li):
         print(li[i])
 ```
 
-#### 2.5) - 6 pts
+#### 2.5) - 10 pts
 As in 2.4, provide the running time of the following function in asymptotic (big-O) notation. Justify your answer. Recall that sorting is done in $O(N \log N)$
 
 ```python
@@ -137,5 +137,3 @@ def print_duplicates2(li):
         print(li[i])
 ```
  
-#### 2.6) - 4 pts
-Can you find a way to further improve the running of the function in 2.5? Provide Python code, the new running time, and provide a justification.
