@@ -6,7 +6,6 @@
 #5. if char correct not in correct space --> yellow✅
 #6. if char wrong --> gray✅
 #7. keep track of guesses - 6 attempts✅
-# 8. if char appears in guess twice, however once in actual word - make it 1 yellow/green and other gray
 
 import random
 from colorama import Fore, Back, Style, init  # pip install colorama
@@ -85,5 +84,5 @@ def ColorCompare():
     if attempts == 6:
         print(f"Game over! The word was: {Fore.GREEN}{TheWordToGuess}{Style.RESET_ALL}")
 
-
-ColorCompare()
+if __name__="__main__":
+    ColorCompare()
