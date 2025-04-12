@@ -5,15 +5,6 @@ This project explores how multiple economic indicators interact over time to rev
 
 ---
 
-## Data Sources
-- `unemployment_rate.csv`
-- `bank-investment.csv`
-- `consumer_spending.csv`
-- `loan_payments.csv`
-- `housing_prices.csv`
-
----
-
 ## Core Insights
 
 - **Economic State Classification**  
@@ -43,7 +34,12 @@ This project explores how multiple economic indicators interact over time to rev
 
 
 ---
-
+## Technologies Used
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Plotly**
+---
 ## Summary
 This project demonstrates my ability to:
 - Analyze and segment macroeconomic data
