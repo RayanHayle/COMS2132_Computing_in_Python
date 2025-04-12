@@ -1,44 +1,29 @@
-# Personal Project
+# Economic Growth and Recession Prediction
 
-Step 1: Gather Data:
----------------------
-- Collect historical economic data such as unemployment rates, GDP, or any economic indicators that can represent growth and recession.
-- You could use public datasets like unemployment rates, GDP, or inflation.
-- Use Pandas to load the CSV or Excel file.
+## Project Overview
+This project demonstrates my proficiency in analyzing, visualizing, and forecasting economic data to identify trends in **growth** and **recession**. 
+## Steps Involved
 
+### 1. Data Collection:
+- Gathered publicly available economic datasets and utilized **Pandas** for data cleaning and preparation.
 
-Step 2: Analyze Data:
----------------------
+### 2. Data Analysis:
+- Identified **growth** and **recession** patterns through statistical analysis of historical economic data.
 
-- Find the overall average of the data to determine what qualifies as "growth" or "recession."
-- Mark years as either “Recession” or “Growth” based on this comparison.
+### 3. Data Visualization:
+- Developed interactive visualizations using **Matplotlib** and **Plotly** to clearly represent economic trends.
 
-Step 3: Visualizations
----------------------
-- Use Matplotlib or Plotly to generate graphs based on the data.
-- Visualize the unemployment rates or GDP, marking years of recession and growth.
+---
 
-Step 4: Train a Machine Learning Model
----------------------
+## Key Skills Demonstrated
 
-- Step 1: Train a Decision Tree Classifier:
+- **Data Analysis**: Proficient in **data wrangling** and **statistical analysis** using **Pandas**.
+- **Data Visualization**: Created **interactive visualizations** to make complex economic data accessible and understandable.
 
-- Use Scikit-learn to train a decision tree model using the economic data to predict whether future years will be in growth or recession.
+---
 
-Step 5: User input
----------------------
-
-- Allow the user to input a starting year and predict the economic status for the next 5 years based on the trained model.
-
-Example
---------
-In file main.py: 
-Train module called decision tree  on the data
-Allow user to input year:
-Input Year: 2003
-Prediction for 2004-2008: 
-2004: Growth
-2005: Growth
-2006: Recession
-2007: Recession
-2008: Growth
+## Technologies Used
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Plotly**
