@@ -1,5 +1,4 @@
-# 📊 Economic Signal Detection & Consumer Behavior Analysis
-
+# 📊 Economic Growth and Recession Analysis 
 ## Project Overview
 This project explores how multiple economic indicators interact over time to reveal patterns in growth and recession. By analyzing five real-world datasets, it simulates the decision-making context for both institutions and consumers—capturing macro signals, spending trends, loan activity, and investment behavior.
 
