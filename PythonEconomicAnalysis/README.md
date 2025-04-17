@@ -4,24 +4,16 @@ This project explores how multiple economic indicators interact over time to rev
 
 ---
 
-## Core Insights
+## Economic Status Classification
 
-- **Economic State Classification**  
-  Categorized time periods as Growth, Recession, or Neutral using shifts in unemployment and spending.
+The economic status (Growth, Recession, or Neutral) is classified based on the analysis of 5 key datasets:
 
-- **Consumer Spending Trends**  
-  Mapped changes in spending behavior during economic shifts to understand demand-side trends.
+- **Unemployment Trends**
+- **Consumer Spending Trends**
+- **Loan Payment Sensitivity**
+- **Housing Market Movements**
+- **Bank Investment Behavior**
 
-- **Loan Payment Sensitivity**  
-  Analyzed patterns in loan repayments to infer financial stress and behavioral adaptation.
-
-- **Housing Market Movements**  
-  Tracked housing price trends as a leading/lagging indicator of economic momentum.
-
-- **Bank Investment Behavior**  
-  Evaluated institutional investment patterns in response to macroeconomic changes.
-
----
 
 ## Skills & Technologies
 
