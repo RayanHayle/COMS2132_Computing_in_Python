@@ -14,7 +14,7 @@ The economic status (Growth, Recession, or Neutral) is classified based on the a
 - **Housing Market Movements**
 - **Bank Investment Behavior**
 
-
+---
 ## Skills & Technologies
 
 - **Data Analysis**: Structured and interpreted multi-source data using **Pandas**.
