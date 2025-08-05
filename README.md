@@ -1,10 +1,40 @@
-**COMS W2132 (Computing in Python)**
+# 📊 Economic Growth and Recession Analysis 
+## Project Overview
+This project explores how multiple economic indicators interact over time to reveal patterns in growth and recession. 
 
-The course combines essential data structures and algorithms in Python with practical software development skills. The focus is on applications in a variety of areas, including biology, music/arts, natural language processing, data science, and others. 
+By analyzing five real-world datasets, it simulates the decision-making context for both institutions and consumers—capturing macro signals, spending trends, loan activity, and investment behavior.
 
-- 3 individual homework assignments - 24% (8% each)
-- Midterm exam (in class, 65 minutes) - 10%
-- Final exam (time TBD; assigned by the Registrar) - 10%
-- Project - 50%
-- Participation (class & lab attendance, activity on Ed Discussions) - 6%
+---
 
+## Economic Status Classification
+
+The economic status (Growth, Recession, or Neutral) is classified based on the analysis of 5 key datasets:
+
+- **Unemployment Trends**
+- **Consumer Spending Trends**
+- **Loan Payment Sensitivity**
+- **Housing Market Movements**
+- **Bank Investment Behavior**
+
+---
+## Skills & Technologies
+
+- **Data Analysis**: Structured and interpreted multi-source data using **Pandas**.
+- **Statistical Reasoning**: Identified trend thresholds, directional shifts, and correlation patterns.
+- **Behavioral Analytics**: Connected economic indicators to consumer and institutional actions.
+- **Data Visualization**: Used **Matplotlib** for visual storytelling of economic cycles and anomalies.
+- **Python Programming**: Integrated all analysis and insight generation in Python.
+
+
+---
+## Technologies Used
+- **Python**
+- **Pandas**
+- **Matplotlib**
+- **Plotly**
+---
+## Summary
+This project demonstrates my ability to:
+- Analyze and segment macroeconomic data
+- Interpret behavioral shifts in financial and consumer contexts
+- Deliver insight-driven narratives that support decision-making
